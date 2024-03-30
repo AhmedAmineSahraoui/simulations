@@ -1,3 +1,4 @@
+#Modeling the "roller coaster" potential energy trick in python using pyplot
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.integrate import odeint
